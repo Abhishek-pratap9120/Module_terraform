@@ -1,0 +1,5 @@
+terraform.tfstate
+.terraform.lock.hcl
+tfsec-report.json
+terraform.tfstate.backup
+.terraform
